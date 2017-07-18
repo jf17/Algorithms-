@@ -45,7 +45,8 @@ public class BubbleSort {
     
     private void sort(){
     
-        
+        if(sortedArray==null){
+   
         		//Sorting
 		do
      		{
@@ -70,6 +71,7 @@ public class BubbleSort {
     
     
         sortedArray = array;
+    }else{}
     }
     
     
