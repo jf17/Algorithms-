@@ -5,6 +5,7 @@ package com.jf17.Algorithms;
  * @author Aleksey
  */
 
+// Алгоритм переставляет местами елементы массива 
 
 public class ArrayInverter {
 
